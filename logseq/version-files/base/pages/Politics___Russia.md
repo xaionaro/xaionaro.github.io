@@ -42,6 +42,7 @@
 			- ![photo_2024-03-11_17-09-57.jpg](../assets/photo_2024-03-11_17-09-57_1710177167509_0.jpg)
 		- Фишман
 			- [Претензия](https://www.youtube.com/watch?v=Z6SVvpOubag)
+			  collapsed:: true
 				- ![photo_2024-03-11_18-08-46.jpg](../assets/photo_2024-03-11_18-08-46_1710180701230_0.jpg)
 			- Реакция общественности
 			  collapsed:: true
@@ -50,6 +51,7 @@
 				- ![GIZsGvdXMAANa73.jpeg](../assets/GIZsGvdXMAANa73_1710180815659_0.jpeg)
 				- ![GIZsGvVWsAA_AyG.jpeg](../assets/GIZsGvVWsAA_AyG_1710180821452_0.jpeg)
 			- [Ответ Каца](https://www.youtube.com/channel/UCUGfDbfRIx51kJGGHIFo8Rw)
+			  collapsed:: true
 				- До 7:50 лишь задаётся контекст и фиксируется общая позиция.
 				- Претензия-ответ:
 					- Добиться результата невозможно, так как нет консенсуса голосовать за Даванкова (как было за Надеждина)

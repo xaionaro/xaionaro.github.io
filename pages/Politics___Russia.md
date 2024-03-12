@@ -51,6 +51,7 @@
 				- ![GIZsGvdXMAANa73.jpeg](../assets/GIZsGvdXMAANa73_1710180815659_0.jpeg)
 				- ![GIZsGvVWsAA_AyG.jpeg](../assets/GIZsGvVWsAA_AyG_1710180821452_0.jpeg)
 			- [Ответ Каца](https://www.youtube.com/channel/UCUGfDbfRIx51kJGGHIFo8Rw)
+			  collapsed:: true
 				- До 7:50 лишь задаётся контекст и фиксируется общая позиция.
 				- Претензия-ответ:
 					- Добиться результата невозможно, так как нет консенсуса голосовать за Даванкова (как было за Надеждина)
