@@ -42,7 +42,6 @@
 			- ![photo_2024-03-11_17-09-57.jpg](../assets/photo_2024-03-11_17-09-57_1710177167509_0.jpg)
 		- Фишман
 			- [Претензия](https://www.youtube.com/watch?v=Z6SVvpOubag)
-			  collapsed:: true
 				- ![photo_2024-03-11_18-08-46.jpg](../assets/photo_2024-03-11_18-08-46_1710180701230_0.jpg)
 			- Реакция общественности
 			  collapsed:: true
