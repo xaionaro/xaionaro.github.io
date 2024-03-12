@@ -37,7 +37,6 @@
 	  collapsed:: true
 		- ![GIQF9aMW0AApMOE.jpeg](../assets/GIQF9aMW0AApMOE_1710159531484_0.jpeg)
 	- Кац vs Дождь
-	  collapsed:: true
 		- Дзядко
 		  collapsed:: true
 			- ![photo_2024-03-11_17-09-57.jpg](../assets/photo_2024-03-11_17-09-57_1710177167509_0.jpg)
