@@ -8,4 +8,4 @@
 - Война в Украине (полномасштабная), 2022-now:
 	- {{embed [[International/War/Russia-Ukraine/2022]]}}
 - "Выборы" 2024:
-- {{embed [[Politics/Russia/Elections/President/2024]]}}
+	- {{embed [[Politics/Russia/Elections/President/2024]]}}
