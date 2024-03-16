@@ -91,8 +91,8 @@
 		- ![lsr_in_russia_2.mp4](../assets/lsr_in_russia_2_1710614988976_0.mp4)
 		-
 	- 2024-03-15: "Участие" всё ещё продолжается
-	  collapsed:: true
 		- ![rdk_in_russia_0.MP4](../assets/rdk_in_russia_0_1710615322822_0.MP4)
+		- ![video_2024-03-16_21-16-11.mp4](../assets/video_2024-03-16_21-16-11_1710623803172_0.mp4) (сообщается, что это Калужская область)
 	- 2024-03-16: "Участие" всё ещё продолжается
 	  collapsed:: true
 		- ![rdk_in_russia_report_0.MP4](../assets/rdk_in_russia_report_0_1710615927618_0.MP4)
