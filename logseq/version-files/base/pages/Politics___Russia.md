@@ -171,10 +171,24 @@
 		- ![GIyZ3JPWgAA77GZ.jpeg](../assets/GIyZ3JPWgAA77GZ_1710599589556_0.jpeg)
 	- Фальсификации
 	  collapsed:: true
-		- [Анализ явки](https://t.me/tvrain/76134):
+		- [Анализ явки](https://t.me/tvrain/76134)
 		  collapsed:: true
 			- ![2024_false_attendence_0.jpg](../assets/2024_false_attendence_0_1710615577429_0.jpg)
 			- ![2024_false_attendence_1.jpg](../assets/2024_false_attendence_1_1710615582296_0.jpg)
+		- Примеры вбросов
+		  collapsed:: true
+			- ![throw_in_0.mp4](../assets/throw_in_0_1710616983277_0.mp4)
+			- ![throw_in_1.MOV](../assets/throw_in_1_1710617032414_0.MOV) (аккуратная пачка бюллетеней за Путина)
+		- Примеры реакций на сообщения о нарушениях
+			- Вброс, сообщил Руслан Хубаев; [но задержан сообщивший, а не нарушивший](https://t.me/benyash/3492)
+				- "Об этом сообщил юрист Михаил Беньяш. Руслана Хубаева, члена комиссии с правом решающего голоса, увезли в отдел полиции Центрального округа."
+				- "Следом силовики задержали наблюдателя Дмитрия Королева. И Хубаев, и Королев находились на избирательном участке №2358 и обнаружили на нем вброс. Причина задержания неизвестна, оба не выходят на связь."
+		- [Сбор сигналов о нарушениях](https://www.kartanarusheniy.org/):
+		  collapsed:: true
+			- 2024-03-16
+			  collapsed:: true
+				- ![Screenshot from 2024-03-16 19-25-03.png](../assets/Screenshot_from_2024-03-16_19-25-03_1710617218405_0.png)
+		-
 	- Атаки на избирательные пункты
 	  collapsed:: true
 		- ![attacks_on_election_bins.jpg](../assets/attacks_on_election_bins_1710616134219_0.jpg)
