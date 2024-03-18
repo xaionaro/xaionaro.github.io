@@ -117,8 +117,8 @@
 	- ![GIyZ3JPWgAA77GZ.jpeg](../assets/GIyZ3JPWgAA77GZ_1710599589556_0.jpeg)
 - Фальсификации
 	- Стат-анализ
-	  collapsed:: true
 		- [Анализ методом Шпилькина от Telegraph](https://telegra.ph/Putinu-vbrosili-besprecedentnye-22-mln-golosov-na-vyborah-2024-03-18) (Шукшин Иван)
+		  collapsed:: true
 			- # Путину вбросили беспрецедентные 22 млн голосов на выборах 2024
 			  *Шукшин Иван, электоральный аналитик*
 			- ### March 18, 2024
@@ -172,6 +172,8 @@
 			- Это были самые грязно сфальсифицированные выборы президента в истории страны.
 			- P.S. Цифры анализа на сайте НГЕ, основанные на тех же самых данных, скачанных нами, заметно выше, поскольку они менее консервативно подходят к тому, что брать за зону корректных голосов, но я считаю их подход ошибочным, ведь Москва, искажённая ДЭГом, не может быть точкой, от которой можно оттолкнуться.
 			- Report content on this page
+		- [Сводная интерактивная таблица от Roman Udot](https://public.tableau.com/app/profile/roman.udot/viz/2024_03_17PresidentoftheRF/_)
+			- ![Screenshot from 2024-03-18 19-43-30.png](../assets/Screenshot_from_2024-03-18_19-43-30_1710791019008_0.png)
 		- Графики от a person
 		  collapsed:: true
 			- ![churov_saw_0.jpg](../assets/churov_saw_0_1710767263191_0.jpg)
@@ -223,6 +225,7 @@
 		- За Путина
 			- ![protocol_example_putin.jpg](../assets/protocol_example_putin_1710766609716_0.jpg)
 	- Реакция общественности на протоколы с УИКов
+	  collapsed:: true
 		- [Вёрстка](https://t.me/svobodnieslova/4409)
 		  collapsed:: true
 			- В систему ЦИК внесли отличные от протоколов результаты голосования в Нижнем Новгороде. Голоса за Даванкова поделили между другими кандидатами, а Путину на одном из УИК приписали 500 голосов
@@ -240,7 +243,8 @@
 			  collapsed:: true
 				- ![Screenshot from 2024-03-18 12-40-30.png](../assets/Screenshot_from_2024-03-18_12-40-30_1710765666092_0.png)
 			- [Робби](https://x.com/cumback21/status/1769672928138764718?s=20)
-				-
+			  collapsed:: true
+				- ![Screenshot from 2024-03-18 19-40-50.png](../assets/Screenshot_from_2024-03-18_19-40-50_1710790857632_0.png)
 		- Telegram
 		  collapsed:: true
 			- person 0: В Бонне похоже тупо нарисовали...
@@ -361,9 +365,10 @@
 	  collapsed:: true
 		- ![false_hope.jpg](../assets/false_hope_1710766796201_0.jpg)
 			- Ответ: Хотя бы он не говорил про второй тур и 30 процентов Даванкова
-	- [[MariaPevchikh]] критикует Каца под предлогом ложной надежды
+	- [[Maria Pevchikh]] критикует Каца под предлогом ложной надежды
 	  collapsed:: true
 		- ![photo_2024-03-18_18-57-14.jpg](../assets/photo_2024-03-18_18-57-14_1710788772667_0.jpg)
+	- [[Alexander Plyuschev]] [заявляет](https://youtu.be/93vBdBjs0b8?t=3174), что 18-го числа голосующие придут извиняться.
 - Дебаты по поводу "РФ -- уже диктатура?"
   collapsed:: true
 	- Уголовные приговоры по репрессивным статьям

@@ -25,6 +25,7 @@
   collapsed:: true
 	- ![photo_2024-03-10_10-41-20.jpg](../assets/photo_2024-03-10_10-41-20_1710070072499_0.jpg)
 - Интернет опросы
+  collapsed:: true
 	- [Лентач](https://x.com/oldLentach/status/1769418549020311809?s=20) после "выборов"
 	  collapsed:: true
 		- ![GI48x-0WcAA7EOV.jpeg](../assets/GI48x-0WcAA7EOV_1710790737244_0.jpeg)
@@ -116,9 +117,10 @@
   collapsed:: true
 	- ![GIyZ3JPWgAA77GZ.jpeg](../assets/GIyZ3JPWgAA77GZ_1710599589556_0.jpeg)
 - Фальсификации
+  collapsed:: true
 	- Стат-анализ
-	  collapsed:: true
 		- [Анализ методом Шпилькина от Telegraph](https://telegra.ph/Putinu-vbrosili-besprecedentnye-22-mln-golosov-na-vyborah-2024-03-18) (Шукшин Иван)
+		  collapsed:: true
 			- # Путину вбросили беспрецедентные 22 млн голосов на выборах 2024
 			  *Шукшин Иван, электоральный аналитик*
 			- ### March 18, 2024
@@ -172,6 +174,8 @@
 			- Это были самые грязно сфальсифицированные выборы президента в истории страны.
 			- P.S. Цифры анализа на сайте НГЕ, основанные на тех же самых данных, скачанных нами, заметно выше, поскольку они менее консервативно подходят к тому, что брать за зону корректных голосов, но я считаю их подход ошибочным, ведь Москва, искажённая ДЭГом, не может быть точкой, от которой можно оттолкнуться.
 			- Report content on this page
+		- [Сводная интерактивная таблица от Roman Udot](https://public.tableau.com/app/profile/roman.udot/viz/2024_03_17PresidentoftheRF/_)
+			- ![Screenshot from 2024-03-18 19-43-30.png](../assets/Screenshot_from_2024-03-18_19-43-30_1710791019008_0.png)
 		- Графики от a person
 		  collapsed:: true
 			- ![churov_saw_0.jpg](../assets/churov_saw_0_1710767263191_0.jpg)
@@ -363,9 +367,10 @@
 	  collapsed:: true
 		- ![false_hope.jpg](../assets/false_hope_1710766796201_0.jpg)
 			- Ответ: Хотя бы он не говорил про второй тур и 30 процентов Даванкова
-	- [[MariaPevchikh]] критикует Каца под предлогом ложной надежды
+	- [[Maria Pevchikh]] критикует Каца под предлогом ложной надежды
 	  collapsed:: true
 		- ![photo_2024-03-18_18-57-14.jpg](../assets/photo_2024-03-18_18-57-14_1710788772667_0.jpg)
+	- [[Alexander Plyuschev]] [заявляет](https://youtu.be/93vBdBjs0b8?t=3174), что 18-го числа голосующие придут извиняться.
 - Дебаты по поводу "РФ -- уже диктатура?"
   collapsed:: true
 	- Уголовные приговоры по репрессивным статьям
