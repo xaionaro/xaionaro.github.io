@@ -64,8 +64,12 @@
 		- https://www.youtube.com/live/jVPcqyqYeAQ?si=nDqfy9qCwPXpeRLt
 - Даванков
   collapsed:: true
-	- О войне
+	- О войне до выборов
+	  collapsed:: true
 		- ![IMG_2774.MP4](../assets/IMG_2774_1710297928623_0.MP4)
+	- [О войне после выборов](https://t.me/sotaproject/77516)
+	  collapsed:: true
+		- ![davankov_about_war.mp4](../assets/davankov_about_war_1710779866276_0.mp4)
 - [[РДК]], [[ЛСР]], [[Батальон "Сибирь"]] "участвуют" в "выборах"
   collapsed:: true
 	- 2024-03-12: Будут "участвовать" в "выборах"
@@ -300,6 +304,9 @@
 		- Ранее Юлия Навальная призывала не признавать результаты голосования.
 - Мемы по результатам
   collapsed:: true
+	- Хороший ли Даванков
+	  collapsed:: true
+		- ![photo_2024-03-18_16-40-33.jpg](../assets/photo_2024-03-18_16-40-33_1710780091194_0.jpg)
 	- Сравнение с соседями
 	  collapsed:: true
 		- ![photo_2024-03-18_15-54-03.jpg](../assets/photo_2024-03-18_15-54-03_1710777250542_0.jpg)
