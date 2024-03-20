@@ -174,8 +174,8 @@
   collapsed:: true
 	- ![GIyZ3JPWgAA77GZ.jpeg](../assets/GIyZ3JPWgAA77GZ_1710599589556_0.jpeg)
 - Фальсификации
-  collapsed:: true
 	- Стат-анализ
+	  collapsed:: true
 		- [Анализ методом Шпилькина от Telegraph](https://telegra.ph/Putinu-vbrosili-besprecedentnye-22-mln-golosov-na-vyborah-2024-03-18) (Шукшин Иван)
 		  collapsed:: true
 			- # Путину вбросили беспрецедентные 22 млн голосов на выборах 2024
@@ -295,7 +295,6 @@
 	  collapsed:: true
 		- ![photo_2024-03-16_22-33-15.jpg](../assets/photo_2024-03-16_22-33-15_1710628747788_0.jpg)
 	- Рисовка результатов
-	  collapsed:: true
 		- [ЛНР и Запорожская обл.](https://x.com/romanik_/status/1769969900741648760?s=20) (Roman Udot)
 		  collapsed:: true
 			- Обнаружено*, что результаты голосования в ЛНР и Запорожской области буквально "сфабрикованы". По определению, "сфабрикованы" = "изготовлены". 
@@ -333,7 +332,9 @@
 			  collapsed:: true
 				- ![Screenshot from 2024-03-19 11-22-24.png](../assets/Screenshot_from_2024-03-19_11-22-24_1710847353564_0.png)
 		- Примеры круглых чисел
+		  collapsed:: true
 			- [ЛНР](https://x.com/ishukshin/status/1769997657643041142?s=20)
+			  collapsed:: true
 				- В ЛНР рисовали с калькулятором аж на уровне региональной комиссии.
 				- Смотрите, результат Путина 94.12%, число бюллетеней 1532030. Случайным образом 94.12% могло получиться, если бы у Путина было от 1441870 до 1442023. Любое из этих 154 чисел.
 				  Но выпало именно то, что даёт ровно калькулятор! Взяли 1532030, умножили на 94.12, поделили на 100 - и результат вписали в протокол "региона". Всё!
@@ -359,8 +360,10 @@
 	- [Примеры протоколов](https://t.me/protocol_uik_2024)
 	  collapsed:: true
 		- За Даванкова
+		  collapsed:: true
 			- ![protocol_example_davankov.jpg](../assets/protocol_example_davankov_1710766508570_0.jpg)
 		- За Путина
+		  collapsed:: true
 			- ![protocol_example_putin.jpg](../assets/protocol_example_putin_1710766609716_0.jpg)
 	- Реакция общественности на протоколы с УИКов
 	  collapsed:: true
