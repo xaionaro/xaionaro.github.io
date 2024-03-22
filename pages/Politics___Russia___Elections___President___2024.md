@@ -179,6 +179,11 @@
 	- 2024-03-16: "Участие" всё ещё продолжается
 	  collapsed:: true
 		- ![rdk_in_russia_report_0.MP4](../assets/rdk_in_russia_report_0_1710615927618_0.MP4)
+	- 2024-03-22: "Участие" всё ещё продолжается
+	  collapsed:: true
+		- КПП Грайворон, Белгородская область, РФ:
+		  collapsed:: true
+			- ![IMG_7411.MP4](../assets/IMG_7411_1711127384732_0.MP4)
 - Google trends?
   collapsed:: true
 	- ![GIyZ3JPWgAA77GZ.jpeg](../assets/GIyZ3JPWgAA77GZ_1710599589556_0.jpeg)
