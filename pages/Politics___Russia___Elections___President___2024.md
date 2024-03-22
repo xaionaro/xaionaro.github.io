@@ -275,6 +275,12 @@
 		  collapsed:: true
 			- ![GJNBNJ9X0AAVgMm.jpeg](../assets/GJNBNJ9X0AAVgMm_1711060083956_0.jpeg)
 		- Сводка от [[Кац]]-а: https://maxkatz.ru/2024
+		- [Лучи?](https://x.com/OldHedgehogMan/status/1770876050026774704?s=20)
+		  collapsed:: true
+			- ![GJNqXbIWkAEuHpn.jpeg](../assets/GJNqXbIWkAEuHpn_1711112610951_0.jpeg)
+			- ![GJNqXbFXcAAVCo1.jpeg](../assets/GJNqXbFXcAAVCo1_1711112617673_0.jpeg)
+			- ![GJNqXbRXcAIPhuC.jpeg](../assets/GJNqXbRXcAIPhuC_1711112623675_0.jpeg)
+			- ![GJNqXbNWUAAGkxc.jpeg](../assets/GJNqXbNWUAAGkxc_1711112629343_0.jpeg)
 	- [Сводка от Голоса](https://golosinfo.org/articles/146794)
 	- [Очистка результатов по Москва для получения нормального распределения](https://twitter.com/MaximGongalsky/status/1769762170235936939)
 	  collapsed:: true
@@ -672,6 +678,7 @@
 	  collapsed:: true
 		- ![GJIcae_XcAAS2ca.jpeg](../assets/GJIcae_XcAAS2ca_1711026137703_0.jpeg)
 - Обсуждение результата
+  collapsed:: true
 	- Точно ли надули, или это шум?
 	  collapsed:: true
 		- ![GJCauGWWIAEm-3v.jpeg](../assets/GJCauGWWIAEm-3v_1710888062995_0.jpeg)
