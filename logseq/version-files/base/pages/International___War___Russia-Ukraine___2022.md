@@ -9,7 +9,9 @@
 		- 2022-05-07: [[Martin McKee]], [[Amir Attaran]], [[Jutta Lindert]]: [How can the international community respond to evidence of genocide in Ukraine?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9198961/)
 		- 2023-03-17: [[International Criminal Court]] [issued](https://news.un.org/en/story/2023/03/1134732) an arrest warrant for [[Vladimir Putin]] for war crimes of deportation and illegal transfer of children from occupied Ukraine to Russia.
 - Коллективная виновность россиян
+  collapsed:: true
 	- Дебаты
+	  collapsed:: true
 		- [[Michael McFaul]]
 		  collapsed:: true
 			- [2024-03-14](https://twitter.com/McFaul/status/1768348988372353116):
@@ -66,3 +68,12 @@
 		- ✌ Спасибо всем проектам и участникам за вашу неутомимую работу.
 		- Продолжим поддерживать друг друга и вместе двигаться к миру без войны и пропаганды.
 - Поддержка Украины
+- Дебаты по созданию политического представительтву для уехавших
+  collapsed:: true
+	- [[Владимир Милов]] против
+		- Аргумент
+		  collapsed:: true
+			- ![photo_2024-03-21_12-24-18.jpg](../assets/photo_2024-03-21_12-24-18_1711025241444_0.jpg)
+		- Ответ [[Кац]]-а
+		  collapsed:: true
+			- {{twitter https://x.com/Demarche_/status/1747775940162146339?s=20}}
