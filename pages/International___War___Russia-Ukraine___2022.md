@@ -78,6 +78,20 @@
 			- Ответ [[Кац]]-а
 			  collapsed:: true
 				- {{twitter https://x.com/Demarche_/status/1747775940162146339?s=20}}
+	- Распознание войск
+	  collapsed:: true
+		- Россия
+			- Шевроны
+			  collapsed:: true
+				- [Продажа трофейных](https://reibert.info/auctions/znaki-rozriznennja.192/)
+					- ![2024-03-24_11-41-19.mp4](../assets/2024-03-24_11-41-19_1711280615525_0.mp4)
+				- Фотографии
+					- Русич в ДНР
+					  collapsed:: true
+						- ![screenshot_1_19-e1650521876521.jpg](../assets/screenshot_1_19-e1650521876521_1711280829676_0.jpg)
+					- Подписчик TopaZ-а
+					  collapsed:: true
+						- ![🖼 photo_2024-03-23_16-37-33.jpg](../assets/storages/logseq-plugin-multiple-assets/photo_2024-03-23_16-37-33.jpg)
 - 2024:
 	- "Выборы" Путина
 	  collapsed:: true
