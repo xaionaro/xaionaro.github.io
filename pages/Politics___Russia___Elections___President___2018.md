@@ -1,0 +1,7 @@
+- [Сырые данные](https://t.me/RUElectionData/22):
+	- [📑 voters_at_opening.zip](../assets/storages/logseq-plugin-multiple-assets/voters_at_opening.zip)
+	- [📑 webcams.xlsx](../assets/storages/logseq-plugin-multiple-assets/webcams.xlsx)
+	- [📄 readme.txt](../assets/storages/logseq-plugin-multiple-assets/readme.txt)
+	- [📑 JSONs.zip](../assets/storages/logseq-plugin-multiple-assets/JSONs.zip)
+	- [📑 Merged_uik_data_by_region.zip](../assets/storages/logseq-plugin-multiple-assets/Merged_uik_data_by_region.zip)
+	- [📑 Russia_merged_uik_data_w_migration.xlsx](../assets/storages/logseq-plugin-multiple-assets/Russia_merged_uik_data_w_migration.xlsx)
